@@ -1,5 +1,9 @@
 {
     "name": "yenierjimenez/sharer.js",
+    "description": "Social network sharer.",
+    "type": "project",
+    "license": "MIT",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "yjimenez",
