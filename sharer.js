@@ -109,7 +109,7 @@
             params: {
               text: this.getValue('title') + ' ' + this.getValue('url'),
             },
-            isLink: true,
+            isLink: false,
           },
           telegram: {
             shareUrl: this.getValue('web') !== null ? 'https://telegram.me/share' : 'tg://msg_url',
